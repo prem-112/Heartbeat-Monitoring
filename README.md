@@ -1,2 +1,2 @@
 # Heartbeat-Monitoring
-Check the heartbeat of human body
+to analyze the heartbeat of human body
